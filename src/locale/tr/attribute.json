@@ -7,3 +7,12 @@
   "crit_damage": "Kritik Hasarı",
   "ability_haste": "Yetenek Hızı"
 }
+{
+  "Maximum_health": "Azâmi Can",
+  "Maximum_mana,_used_for_casting_skills": "Beceriler için kullanılan, Azâmi Mâna",
+  "Base_damage,_before_adding_elements": "Element Hasarları Eklenmeden önceki pür hasar",
+  "Base_defense,_before_adding_elements": "Element Savunmaları Eklenmeden önceki pür savunma",
+  "Chance_to_multiply_your_damage_with_critical_damage": "Hasarınızın kritik hasar oranında daha fazla vurma ihtimali",
+  "Base_value_is_150%,_can_be_increased_with_some_skills_or_gear_sets.:": "Temel değeri %150 olup, bazı beceriler veya eşya setleri ile artırılabilir",
+  "Reduces_cooldown_of_your_skills._Formula:_100_/_(100_+_abilityHaste):": "Becerilerinizin bekleme süresini azaltır. Formulü: 100/(100+Yetenek Hızı)"
+}
